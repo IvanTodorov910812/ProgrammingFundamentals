@@ -1,2 +1,3 @@
 # ProgrammingFundamentals
-1. C# Intro Programming - Fundamentals 
+1. C# Intro Programming - Fundamentals
+2. C# Data Types and Variables 
