@@ -4,3 +4,6 @@
 3. C# Methods, Debugging, Troubleshooting Code!
 4. C# Arrays and Methods
 5. C# Arrays 
+6. C# Lists
+7. C# DictionariesLambdaLINQ
+8. C# Objects and Classes
