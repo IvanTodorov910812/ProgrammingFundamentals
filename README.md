@@ -7,3 +7,4 @@
 6. C# Lists
 7. C# DictionariesLambdaLINQ
 8. C# Objects and Classes
+9. C# Files and Exceptions
