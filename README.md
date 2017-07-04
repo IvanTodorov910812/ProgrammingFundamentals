@@ -7,4 +7,6 @@
 6. C# Lists
 7. C# DictionariesLambdaLINQ
 8. C# Objects and Classes
-9. C# Files and Exceptions
+9. C# Files and Exceptions\
+10. C# Strings
+11. C# Regular Expression (Regex)
